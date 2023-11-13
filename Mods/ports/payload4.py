@@ -7,7 +7,7 @@ from  concurrent.futures import ThreadPoolExecutor
 
 console = Console()
 
-port = ['443', '80', '8080', '4443', '8443']
+port = ['443', '80', '8080', '4443', '8443', '81', '8000', '8081', '8888', '3000', '5000', '8008', '8444', '9000', '10000', '5984', '7000', '8001', '9001', '8002', '8003', '8004', '8005']
 urls = "https://www.apple.com/.htaccess"
 
 def payloads1(url, head):
