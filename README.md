@@ -1,3 +1,5 @@
+Modified by v0rl0x to include more options in mods folder, added additional http headers and url encoding.
+
 
 <h1 align="center">
   <br>
