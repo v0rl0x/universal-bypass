@@ -1,11 +1,8 @@
-Modified by v0rl0x to include more options in mods folder, added additional http headers and url encoding.
-
-
 <h1 align="center">
   <br>
   <a href="https://github.com/0xAgun/idb-shodan"><img src="https://i.imgur.com/wRea7fk.png" alt="All1"></a></br>
   <br>
-    A Tool to bypass 403/401
+    A Tool to bypass 403/401, modified by v0rl0x to include more options in mods folder, added additional http headers and url encoding.
   <br>
 </h1>
 <h4 align="center">This Tool bypass 403/401. This script contain all the possible techniques to do the bypass</h4>
